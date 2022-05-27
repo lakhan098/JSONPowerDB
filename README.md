@@ -1,6 +1,5 @@
 # JSONPowerDB
-<p><h2>Title of the Project:</h2>
- Saving data in JPDB from HTML form</p>
+<p><b>Title of the Project:</b>Saving data in JPDB from HTML form</p>
 *Description:* 
 This is a simple html page which shows how to connect the web pages to JPDB.
 *Benefits of using JsonPowerDB:* 
